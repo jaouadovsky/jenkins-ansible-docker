@@ -15,4 +15,4 @@
     image: "{{ image }}"
     ports: 8081:8080
     state: started
-    container_default_behavior: no_defaults
+    #container_default_behavior: no_defaults
